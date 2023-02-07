@@ -1,0 +1,7 @@
+﻿  Reading Qt configuration (D:/Egor/dev/Qt/6.3.1/msvc2019_64/bin/qmake)
+  moc CryptoAppBuild.h
+  CryptoAppBuild.cpp
+  main.cpp
+  qrc_CryptoAppBuild.cpp
+  moc_CryptoAppBuild.cpp
+  CryptoAppBuild.vcxproj -> D:\Egor\dev\qtdev\Crypt\x64\Release\CryptoAppBuild.exe
